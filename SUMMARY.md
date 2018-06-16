@@ -6,6 +6,6 @@
 
 ## 各语言相关工具
 
-* [通用](ge-yu-yan-xiang-guan-gong-ju/tong-yong.md)
-* [C\#](ge-yu-yan-xiang-guan-gong-ju/c.md)
+* [通用](language-tool/general.md)
+* [C\#](language-tool/csharp.md)
 
