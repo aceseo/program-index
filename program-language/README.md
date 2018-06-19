@@ -1,4 +1,4 @@
-# 编程语言是个啥
+# 编程语言剖析
 
 编程语言很多，有多少呢？A到Z的字母都占满了还不够，能绕好几圈。（[Wiki列表](https://en.wikipedia.org/wiki/List_of_programming_languages)）
 

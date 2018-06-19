@@ -1,13 +1,26 @@
 # Table of contents
 
-* [编程实践索引目录](README.md)
+* [简介](README.md)
 * [【本项目需要你的帮助】](contributing.md)
-* [编程语言是个啥](program-language.md)
-* [编程范式](programming-paradigm.md)
-* [MV\*框架](model-view.md)
-
-## 分语言介绍
-
-* [通用](languages/general.md)
-* [C\#](languages/csharp.md)
+* [👇目前只是个目录，所以👆](contributors.md)
+* [计算机的故事](story.md)
+* [编程语言剖析](program-language/README.md)
+  * [要素](program-language/element.md)
+  * [动态静态，强弱类型](program-language/classfication.md)
+  * [编程范式](program-language/programming-paradigm.md)
+* [原则与技巧](principle.md)
+* [基本方面](aspects/README.md)
+  * [安全性](aspects/security.md)
+* [组织你的代码](layer/README.md)
+  * [MV\*框架](layer/model-view.md)
+* [从项目到工程](project/README.md)
+  * [软件工程](project/software-engineering.md)
+* [研究方向](research/README.md)
+  * [密码](research/encrypt.md)
+  * [AI 人工智能](research/ai.md)
+* [行业](industry.md)
+* [语言与工具](language-index/README.md)
+  * [书目](language-index/books.md)
+  * [通用工具](language-index/general-tools.md)
+  * [C\#](language-index/csharp.md)
 
