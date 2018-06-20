@@ -10,7 +10,7 @@
 
 希望不论是新手还是老手，都能从本项目中获益。
 
-要参与本项目很简单，前往 [https://github.com/XUJINKAI/program-index](https://github.com/XUJINKAI/program-index) ，建议、想法、问题，提出issue即可。（初期为了避免混乱暂不接受PR）
+要参与本项目很简单，前往 [https://github.com/XUJINKAI/program-index](https://github.com/XUJINKAI/program-index) ，建议、想法、问题，提出issue即可。
 
 别忘了点个star，让更多人知道本项目。
 
